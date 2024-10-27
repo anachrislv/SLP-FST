@@ -1,0 +1,71 @@
+1000 epoch model:
+Similar words for: bible [('poetry', 0.383050799369812), ('blasphemous', 0.3548435866832733), ('reverend', 0.35014617443084717), ('preacher', 0.3461860716342926), ('propitious', 0.344009667634964)] 
+
+Similar words for: book [('chronicles', 0.5576196908950806), ('written', 0.553611159324646), ('letter', 0.475374698638916), ('volume', 0.45197001099586487), ('note', 0.4486658573150635)] 
+
+Similar words for: bank [('pool', 0.5286288857460022), ('ridge', 0.5067192316055298), ('top', 0.48990094661712646), ('table', 0.46766746044158936), ('hill', 0.46434348821640015)] 
+
+Similar words for: water [('waters', 0.6529315710067749), ('wine', 0.5079317092895508), ('liquid', 0.5070357918739319), ('lake', 0.5038613080978394), ('river', 0.5010083913803101)] 
+
+2000 epoch model:
+Similar words for: bible [('scarf', 0.3493695855140686), ('blasphemous', 0.3418530225753784), ('copyright', 0.3370893597602844), ('republic', 0.3366149961948395), ('poetry', 0.3350933790206909)] 
+
+Similar words for: book [('chronicles', 0.5492503643035889), ('written', 0.5475344657897949), ('temple', 0.4714668393135071), ('papers', 0.45232826471328735), ('letter', 0.4420188367366791)] 
+
+Similar words for: bank [('pool', 0.5393407344818115), ('hill', 0.5045983791351318), ('ridge', 0.48803168535232544), ('table', 0.47779619693756104), ('rocks', 0.4545815587043762)] 
+
+Similar words for: water [('waters', 0.6228045225143433), ('lake', 0.4930165410041809), ('river', 0.49141889810562134), ('sea', 0.48895180225372314), ('streams', 0.48705822229385376)] 
+
+100 epoch model:
+Similar words for: bible [('matthew', 0.40671759843826294), ('republic', 0.40476125478744507), ('lies', 0.4022599458694458), ('title', 0.3794362545013428), ('pliny', 0.35957080125808716)] 
+
+Similar words for: book [('chronicles', 0.6147681474685669), ('written', 0.6054839491844177), ('volume', 0.5395889282226562), ('letter', 0.5110397338867188), ('papers', 0.4572550654411316)] 
+
+Similar words for: bank [('ridge', 0.5609272718429565), ('pool', 0.5606678128242493), ('platform', 0.5254971385002136), ('lawn', 0.5201282501220703), ('hill', 0.5196443796157837)] 
+ 
+Similar words for: water [('waters', 0.6477859616279602), ('streams', 0.5492191314697266), ('river', 0.5402520298957825), ('camels', 0.5272562503814697), ('sea', 0.5269639492034912)] 
+100 epoch model, larger window:
+Similar words for: bible [('stands', 0.3699774742126465), ('matthew', 0.36912718415260315), ('sets', 0.3682869076728821), ('republic', 0.35443124175071716), ('discernment', 0.3514211177825928)] 
+
+Similar words for: book [('written', 0.6045722961425781), ('chronicles', 0.5423722863197327), ('volume', 0.5365967750549316), ('temple', 0.48301851749420166), ('letter', 0.4672126770019531)] 
+
+Similar words for: bank [('pool', 0.5196660757064819), ('table', 0.5143560171127319), ('beach', 0.5127063989639282), ('footpath', 0.4977200925350189), ('side', 0.4851554334163666)] 
+
+Similar words for: water [('waters', 0.6160950660705566), ('lake', 0.5543476939201355), ('streams', 0.5165333151817322), ('tumbler', 0.4947237968444824), ('pitcher', 0.4894286096096039)] 
+
+10 epoch model:
+Similar words for: bible [('deliverer', 0.5361034870147705), ('republic', 0.5348396301269531), ('yojo', 0.532321572303772), ('camerado', 0.520039975643158), ('salem', 0.5165165066719055)] 
+
+Similar words for: book [('chronicles', 0.6864470839500427), ('written', 0.6520118713378906), ('letter', 0.5922365188598633), ('volume', 0.572303056716919), ('note', 0.5709046125411987)] 
+
+Similar words for: bank [('floor', 0.8180829286575317), ('lawn', 0.7880439758300781), ('beach', 0.7847914099693298), ('shelf', 0.7794530391693115), ('road', 0.7497352361679077)] 
+
+Similar words for: water [('ashes', 0.618657648563385), ('waters', 0.6139789819717407), ('wood', 0.5876113772392273), ('brook', 0.5782594680786133), ('bushes', 0.5739002227783203)]
+    
+1000 epoch model:
+Word trio: (girls, queen, kings)
+Most similar words for girls-queen + kings: [('parts', 0.48722755908966064), ('men', 0.48240259289741516), ('cities', 0.4541364908218384), ('creatures', 0.44944313168525696), ('nations', 0.443217933177948)] 
+
+Word trio: (good, tall, taller)
+Most similar words for good tall + taller: [('dear', 0.4083581566810608), ('used', 0.39686906337738037), ('merry', 0.38100019097328186), ('better', 0.3686302900314331), ('please', 0.3660450875759125)] 
+
+Word trio: (france, paris, london)
+Most similar words for france - paris + london: [('england', 0.41968631744384766), ('town', 0.40732717514038086), ('court', 0.4003077745437622), ('sources', 0.3972579538822174), ('hotel', 0.3879925310611725)]
+
+Google model:
+Similar words for: bible [('Bible', 0.7367782592773438), ('bibles', 0.6052597761154175), ('Holy Bible', 0.5989601612091064), ('scriptures', 0.5745684504508972), ('scripture', 0.5697901844978333)] 
+
+Similar words for: book [('tome', 0.7485830783843994), ('books', 0.7379177808761597), ('memoir', 0.730292797088623), ('paperback_edition', 0.6868364810943604), ('autobiography', 0.6741527318954468)] 
+
+Similar words for: bank [('banks', 0.7440758943557739), ('banking', 0.690161406993866), ('Bank', 0.6698697805404663), ('lender', 0.6342284679412842), ('banker', 0.6092953681945801)] 
+
+Similar words for: water [('potable water', 0.6799106597900391), ('Water', 0.6706870794296265), ('sewage', 0.6619377136230469), ('groundwater', 0.6588345766067505), ('freshwater', 0.6307883262634277)] 
+
+Word trio: (girls, queen, kings)
+Most similar words for girls-queen + kings: [('boys', 0.7183727622032166), ('men', 0.5000520348548889), ('teenagers', 0.4967767894268036), ('schoolboys', 0.46822962164878845), ('kids', 0.45648258924484253)] 
+
+Word trio: (good, tall, taller)
+Most similar words for good tall + taller: [('better', 0.7245720624923706), ('nicer', 0.5474838018417358), ('great', 0.5431875586509705), ('quicker', 0.5431677103042603), ('bad', 0.5423746705055237)] 
+
+Word trio: (france, paris, london)
+Most similar words for france - paris + london: [('england', 0.5836853384971619), ('europe', 0.5529575347900391), ('european', 0.5125302076339722), ('africa', 0.4936657249927521), ('spain', 0.48787450790405273)]
